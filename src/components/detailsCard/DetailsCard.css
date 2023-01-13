@@ -1,0 +1,41 @@
+.detailImg {
+    width: 100%;
+    height: 50vh;
+    margin: 0 auto;
+    object-fit: contain;
+}
+
+.detailsPageCard {
+    margin: 5rem auto;
+    width: 80%;
+    max-width: 600px;
+}
+
+.detailsPageCard h2 {
+    font-size: 4rem;
+}
+
+.detailsPageCard h3 {
+    font-size: 2rem;
+    color: #FFCA40;
+    margin-bottom: 3rem;
+}
+
+.grey {
+    color: dimgrey;
+    font-size: 1.4rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.detailsText {
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    font-size: 1.6rem;
+}
+
+.returnButton img {
+    width: 50px;
+    height: 50px;
+    object-fit: contain;
+}

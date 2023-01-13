@@ -1,0 +1,27 @@
+.homeComp {
+    max-width: 600px;
+    margin: 4rem auto;
+}
+
+.homeComp a {
+    text-decoration: none;
+}
+
+.homeComp img {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.homeTitle {
+    font-size: 3rem;
+    color: whitesmoke;
+    background-color: #FFCA40;
+    padding: 2rem;
+    margin-top: -0.3rem;
+}
+
+.homeText {
+    font-size: 1.6rem;
+    color: black;
+    margin-top: 1rem;
+}
